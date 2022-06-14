@@ -7,5 +7,5 @@ Copy fo `aseprite_font.png` to `.../Aseprite/data/fonts/`
 ## Font Preview
 ![Font Preview](font_preview.png)
 
-## ui preview
+## UI Preview
 ![UI Preview](ui_preview.png)
