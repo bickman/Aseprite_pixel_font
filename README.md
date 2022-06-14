@@ -2,7 +2,7 @@
 Aseprite pixel font in 3*7 pixel
 
 ## How To Use 
-Copy fo aseprite_font.png to .../Aseprite/date/fonts/
+Copy fo '''aseprite_font.png''' to .../Aseprite/date/fonts/
 
 ## font preview
 ![font preview](font_preview.png)
